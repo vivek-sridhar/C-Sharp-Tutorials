@@ -1,0 +1,14 @@
+C:\Users\vivek\source\repos\Tutorials\bin\Debug\net8.0\Tutorials.exe
+C:\Users\vivek\source\repos\Tutorials\bin\Debug\net8.0\Tutorials.deps.json
+C:\Users\vivek\source\repos\Tutorials\bin\Debug\net8.0\Tutorials.runtimeconfig.json
+C:\Users\vivek\source\repos\Tutorials\bin\Debug\net8.0\Tutorials.dll
+C:\Users\vivek\source\repos\Tutorials\bin\Debug\net8.0\Tutorials.pdb
+C:\Users\vivek\source\repos\Tutorials\obj\Debug\net8.0\Tutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivek\source\repos\Tutorials\obj\Debug\net8.0\Tutorials.AssemblyInfoInputs.cache
+C:\Users\vivek\source\repos\Tutorials\obj\Debug\net8.0\Tutorials.AssemblyInfo.cs
+C:\Users\vivek\source\repos\Tutorials\obj\Debug\net8.0\Tutorials.csproj.CoreCompileInputs.cache
+C:\Users\vivek\source\repos\Tutorials\obj\Debug\net8.0\Tutorials.dll
+C:\Users\vivek\source\repos\Tutorials\obj\Debug\net8.0\refint\Tutorials.dll
+C:\Users\vivek\source\repos\Tutorials\obj\Debug\net8.0\Tutorials.pdb
+C:\Users\vivek\source\repos\Tutorials\obj\Debug\net8.0\Tutorials.genruntimeconfig.cache
+C:\Users\vivek\source\repos\Tutorials\obj\Debug\net8.0\ref\Tutorials.dll
